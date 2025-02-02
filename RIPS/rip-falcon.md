@@ -11,8 +11,7 @@ created: ????-??-??
 ---
 
 ## Abstract
-
-This proposal creates a precompiled contract that performs signature verifications in the “secp256r1” elliptic curve by given parameters of message hash, `r` and `s` components of the signature, `x` and `y` coordinates of the public key. So that, any EVM chain - principally Ethereum rollups - will be able to integrate this precompiled contract easily.
+This proposal creates a precompiled contract that performs signature verifications using the Falcon signature scheme by given parameters of the message hash, signature, and public key. This allows any EVM chain—principally Ethereum rollups—to integrate this precompiled contract easily.
 
 ## Motivation
 
