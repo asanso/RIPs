@@ -1,7 +1,7 @@
 ---
 rip: ????
 title: Precompile for Falcon support
-description: Proposal to add precompiled contract that performs signature verifications in the “secp256r1” elliptic curve.
+description: Proposal to add a precompiled contract that performs signature verifications using the Falcon signature scheme.
 author: Antonio Sanso,...
 discussions-to: ...
 status: Draft
