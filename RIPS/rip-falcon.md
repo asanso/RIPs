@@ -2,7 +2,7 @@
 rip: ????
 title: Precompile for Falcon support
 description: Proposal to add a precompiled contract that performs signature verifications using the Falcon signature scheme.
-author: Antonio Sanso,...
+author: Antonio Sanso (@asanso), Marius Van Der Wijden, Kevaundray Wedderburn, Zhenfei Zhang
 discussions-to: ...
 status: Draft
 type: Standards Track
